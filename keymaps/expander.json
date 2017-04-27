@@ -1,5 +1,7 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "expander:toggle"
+    "cmd-shift-e": "expander:expand",
+    "cmd-shift-k": "expander:addKey",
+    "cmd-shift-v": "expander:addValue"
   }
 }

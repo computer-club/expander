@@ -2,8 +2,16 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle expander",
-        "command": "expander:toggle"
+        "label": "Expand text",
+        "command": "expander:expand"
+      },
+      {
+        "label": "Add key text",
+        "command": "expander:addKey"
+      },
+      {
+        "label": "Add value text",
+        "command": "expander:addValue"
       }
     ]
   },
@@ -15,8 +23,16 @@
           "label": "expander",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "expander:toggle"
+              "label": "Expand",
+              "command": "expander:expand"
+            },
+            {
+              "label": "AddKey",
+              "command": "expander:addKey"
+            },
+            {
+              "label": "AddValue",
+              "command": "expander:addValue"
             }
           ]
         }
