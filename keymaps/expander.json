@@ -1,7 +1,7 @@
 {
   "atom-workspace": {
     "cmd-shift-e": "expander:expand",
-    "cmd-shift-k": "expander:addKey",
-    "cmd-shift-v": "expander:addValue"
+    "cmd-shift-c": "expander:setClip",
+    "cmd-shift-v": "expander:setExpansion"
   }
 }

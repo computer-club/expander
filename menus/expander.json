@@ -6,12 +6,12 @@
         "command": "expander:expand"
       },
       {
-        "label": "Add key text",
-        "command": "expander:addKey"
+        "label": "Add clip text",
+        "command": "expander:setClip"
       },
       {
-        "label": "Add value text",
-        "command": "expander:addValue"
+        "label": "Set expansion text",
+        "command": "expander:setExpansion"
       }
     ]
   },
@@ -27,12 +27,12 @@
               "command": "expander:expand"
             },
             {
-              "label": "AddKey",
-              "command": "expander:addKey"
+              "label": "setClip",
+              "command": "expander:setClip"
             },
             {
-              "label": "AddValue",
-              "command": "expander:addValue"
+              "label": "setExpansion",
+              "command": "expander:setExpansion"
             }
           ]
         }
