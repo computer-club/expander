@@ -1,0 +1,6 @@
+{
+  "trimWhitespace": {
+      "description": "Removes whitespace from new clips.",
+      "type": "boolean", "default": true
+    }
+}
